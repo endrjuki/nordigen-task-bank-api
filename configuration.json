@@ -1,0 +1,6 @@
+{    
+    "client_id": "vgcjIQs8dpYbBHeBjCOX9K7_xVIa",
+    "client_secret": "fieJTey7mX1SfVpfbtBf2K4MPCMa",
+    "token_endpoint": "https://ims.icagruppen.se/oauth/v2/token",
+    "accounts_endpoint": "https://apimgw-icabanken.ica.se/t/icabanken.tenant/ica/bank/services/psd2/accounts/sandbox/1.0.0/Accounts"
+}
